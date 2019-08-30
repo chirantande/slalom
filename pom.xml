@@ -159,12 +159,6 @@
        <url>http://repository.mulesoft.org/snapshots/</url>
        <layout>default</layout>
    </repository>
-   <repository>
-	<id>codehaus-mule-repo</id>
-	<name>codehaus-mule-repo</name>
-	<url>https://repository.mulesoft.org/nexus/content/groups/public/</url>
-	<layout>default</layout>
-	</repository>
           <repository>
             <id>MuleRepository</id>
             <name>MuleRepository</name>
@@ -177,7 +171,14 @@
             <url>http://repository.mulesoft.org/releases/</url>
             <layout>default</layout>
         </repository>
+        <repository>
+	<id>codehaus-mule-repo</id>
+	<name>codehaus-mule-repo</name>
+	<url>https://repository.mulesoft.org/nexus/content/groups/public/</url>
+	<layout>default</layout>
+	</repository>
     </repositories>
+    	
     <pluginRepositories>
         <pluginRepository>
             <id>mulesoft-release</id>
