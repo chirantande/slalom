@@ -16,12 +16,12 @@
 		<mule.version>3.9.1</mule.version>
     	<mule.tools.version>1.7</mule.tools.version>
     	<uid>chirantan-slalom</uid>
-<pwd></pwd>
+		<pwd></pwd>
 	</properties>
 
 	<build>
 		<plugins>
-		 <plugin>
+			<plugin>
 <groupId>org.mule.tools.maven</groupId>
 <artifactId>mule-maven-plugin</artifactId>
 <version>2.0</version>
