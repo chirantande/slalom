@@ -153,12 +153,12 @@
 	</dependencies>
 
 	<repositories>
-   <repository>
+  <!--  <repository>
        <id>mulesoft-snapshots</id>
        <name>MuleSoft Snapshots Repository</name>
        <url>http://repository.mulesoft.org/snapshots/</url>
        <layout>default</layout>
-   </repository>
+   </repository> -->
           <repository>
             <id>MuleRepository</id>
             <name>MuleRepository</name>
