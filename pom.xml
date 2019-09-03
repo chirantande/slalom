@@ -181,13 +181,9 @@
    <repository>
     <id>Maven project</id>
     <name>Maven Repo</name>
-    <url>C:\Users\chirantan.deshpande\.m2\repository\com\mulesoft\muleesb\mule-core-ee\3.9.1</url>
+    <url>C:\Users\chirantan.deshpande\.m2\repository</url>
 </repository>
-<!-- <repository>
-    <id>Mule maven project</id>
-    <name>Mule maven Repo</name>
-    <url>C:\Users\chirantan.deshpande\.m2\repository\com\mulesoft\muleesb</url>
-</repository> -->
+
     </repositories>
     	
     <pluginRepositories>
