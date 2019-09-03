@@ -165,23 +165,14 @@
             <url>http://repository.mulesoft.org/releases/</url>
             <layout>default</layout>
         </repository>
-        <!-- <repository>
-	<id>codehaus-mule-repo</id>
-	<name>codehaus-mule-repo</name>
-	<url>https://repository.mulesoft.org/nexus/content/groups/public/</url>
-	<layout>default</layout>
-	</repository>-->
+     
 	<repository> 
        <id>mulesoft-snapshots</id>
        <name>MuleSoft Snapshots Repository</name>
        <url>http://repository.mulesoft.org/snapshots/</url>
        <layout>default</layout>
    </repository>
-  <!--  <repository>
-    <id>Maven project</id>
-    <name>Maven Repo</name>
-    <url>C:\Users\chirantan.deshpande\.m2\repository</url>
-</repository> -->
+
     </repositories>
     	
     <pluginRepositories>
