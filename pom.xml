@@ -86,12 +86,12 @@
 	<!-- Mule Dependencies -->
 	<dependencies>
 		<!-- Xml configuration -->
-		<dependency>
+		<!-- <dependency>
         	<groupId>com.mulesoft.muleesb</groupId>
 			<artifactId>mule-core-ee</artifactId>
 			<version>${mule.version}</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
 		<!-- Xml configuration -->
 		<dependency>
 			<groupId>com.mulesoft.muleesb.modules</groupId>
@@ -153,7 +153,6 @@
 	</dependencies>
 
 	<repositories>
-   
           <repository>
             <id>MuleRepository</id>
             <name>MuleRepository</name>
@@ -182,11 +181,6 @@
     <id>Maven project</id>
     <name>Maven Repo</name>
     <url>C:\Users\chirantan.deshpande\.m2\repository</url>
-</repository>
- <repository>
-    <id>Mule Maven ee</id>
-    <name>Maven ee Repo</name>
-    <url>C:\Users\chirantan.deshpande\.m2\repository\com\mulesoft\muleesb\mule-core-ee\3.9.1</url>
 </repository>
     </repositories>
     	
