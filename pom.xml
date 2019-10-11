@@ -17,6 +17,7 @@
     	<mule.tools.version>1.7</mule.tools.version>
     	<uid></uid>
 		<pwd></pwd>
+		
 	</properties>
 
 	<build>
